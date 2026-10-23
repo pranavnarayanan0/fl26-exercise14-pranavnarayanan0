@@ -1,0 +1,4 @@
+build/
+build-docker/
+temp.dat
+.DS_Store
